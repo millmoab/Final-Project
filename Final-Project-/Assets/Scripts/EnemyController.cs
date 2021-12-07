@@ -85,7 +85,7 @@ public class EnemyController : MonoBehaviour
         rigidbody2D.simulated = false;
         //optional if you added the fixed animation
         animator.SetTrigger("Fixed");
-        
+        Destroy (gameObject);
         smokeEffect.Stop();
     }
 }
