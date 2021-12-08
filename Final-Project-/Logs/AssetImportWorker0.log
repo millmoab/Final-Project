@@ -1557,3 +1557,251 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 431.962838 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Gravestone D.prefab
+  artifactKey: Guid(5105ccaacad8d714b94dfb93084fa936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Gravestone D.prefab using Guid(5105ccaacad8d714b94dfb93084fa936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '137d8d49c822e6047c51dc5c371b16bc') in 0.401860 seconds 
+  Import took 0.512075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.908948 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Gravestone C.prefab
+  artifactKey: Guid(d6770ea3eabbc694a9bad4112d5af65b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Gravestone C.prefab using Guid(d6770ea3eabbc694a9bad4112d5af65b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4710293bf35e5eaac1f8d736d33f05e0') in 0.033413 seconds 
+  Import took 0.036764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.526418 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Gravestone B.prefab
+  artifactKey: Guid(f39426a001c71d84999be2ee63c7d322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Gravestone B.prefab using Guid(f39426a001c71d84999be2ee63c7d322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95a8acb64e4ff30f442e314ab3713915') in 0.014075 seconds 
+  Import took 0.017320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9986.756196 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Log Bench.prefab
+  artifactKey: Guid(28ae4e85426a2f54a98737a016d4cbc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Log Bench.prefab using Guid(28ae4e85426a2f54a98737a016d4cbc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf0fb1378a6f57f095750021eb834015') in 0.247320 seconds 
+  Import took 0.330179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 429.199975 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Banner.prefab
+  artifactKey: Guid(5fd9ed34f1f755643b41c4b41d7077e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Banner.prefab using Guid(5fd9ed34f1f755643b41c4b41d7077e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57fa74c1663add2f32f28b74e54f95d1') in 0.139795 seconds 
+  Import took 0.143934 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003375 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.020 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3027ms)
+		BeginReloadAssembly (496ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (93ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (270ms)
+		EndReloadAssembly (2419ms)
+			LoadAssemblies (277ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (370ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (1388ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (19ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (129ms)
+				ProcessInitializeOnLoadAttributes (1212ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (49ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2236 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 203.5 MB.
+System memory in use after: 203.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3031.
+Total: 2.696167 ms (FindLiveObjects: 0.222625 ms CreateObjectMapping: 0.050584 ms MarkObjects: 2.385458 ms  DeleteObjects: 0.035833 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 601.590357 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Rock B.prefab
+  artifactKey: Guid(b076c268235cb7348a5d9a036ec254c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Rock B.prefab using Guid(b076c268235cb7348a5d9a036ec254c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5106264cdb45101659e12ad4791c5f70') in 0.150211 seconds 
+  Import took 0.153295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.755177 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Rock B.prefab
+  artifactKey: Guid(b076c268235cb7348a5d9a036ec254c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Rock B.prefab using Guid(b076c268235cb7348a5d9a036ec254c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92c74c96614f4118c99f92eb03e8dc90') in 0.020946 seconds 
+  Import took 0.024088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.849077 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Rock C.prefab
+  artifactKey: Guid(2f54e7022d76f09478e2e1124e212cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Rock C.prefab using Guid(2f54e7022d76f09478e2e1124e212cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330f54491979f850509202119d8645c5') in 0.014666 seconds 
+  Import took 0.017989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.192835 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Rock C.prefab
+  artifactKey: Guid(2f54e7022d76f09478e2e1124e212cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Rock C.prefab using Guid(2f54e7022d76f09478e2e1124e212cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '072e9124e24fb017d0ebafbf4dd50587') in 0.014182 seconds 
+  Import took 0.017139 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003370 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.586 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2587ms)
+		BeginReloadAssembly (245ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (45ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (87ms)
+		EndReloadAssembly (2245ms)
+			LoadAssemblies (223ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (338ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (1330ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (113ms)
+				ProcessInitializeOnLoadAttributes (1178ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (45ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2236 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 203.7 MB.
+System memory in use after: 203.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3035.
+Total: 2.301709 ms (FindLiveObjects: 0.160083 ms CreateObjectMapping: 0.064792 ms MarkObjects: 2.060792 ms  DeleteObjects: 0.015333 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 590.725146 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Stall.prefab
+  artifactKey: Guid(b18dcd3ee86986b469e9cfc64055704c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Prefab/PF Village Props - Stall.prefab using Guid(b18dcd3ee86986b469e9cfc64055704c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fc2d6c2b46a56bc3b5a51954ea9d232') in 0.184816 seconds 
+  Import took 0.187890 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003801 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.621 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2622ms)
+		BeginReloadAssembly (225ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (43ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (80ms)
+		EndReloadAssembly (2303ms)
+			LoadAssemblies (207ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (339ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (59ms)
+			SetupLoadedEditorAssemblies (1389ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (115ms)
+				ProcessInitializeOnLoadAttributes (1229ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (45ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2236 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 204.0 MB.
+System memory in use after: 204.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3039.
+Total: 13.766750 ms (FindLiveObjects: 0.179583 ms CreateObjectMapping: 0.048792 ms MarkObjects: 13.505958 ms  DeleteObjects: 0.031333 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
